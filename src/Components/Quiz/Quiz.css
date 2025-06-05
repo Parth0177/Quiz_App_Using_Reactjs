@@ -45,4 +45,25 @@
   color:#fff;
   font-size: 25px;
   font-weight: 500;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.container .index{
+  margin: auto;
+  font-size: 18px;;
+}
+
+.container ul li:hover{
+  background: #f0f0f0;
+}
+
+.container .correct{
+  background:#dffff2;
+  border-color: #00d397;
+}
+
+.container .wrong{
+  background: #ffdddd;
+  border-color: #ff0000;
 }
