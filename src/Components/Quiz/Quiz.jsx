@@ -79,9 +79,7 @@ const Quiz = () => {
       }
       {result?<><h2>You Scored {score} out of {data.length}</h2>
       <button onClick={reset}>Reset</button></>:<></>}
-      
-      
-    </div>
+      </div>
   )
 }
 
