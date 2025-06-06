@@ -61,9 +61,6 @@ const Quiz = () => {
     setresult(false);
   }
 
-  const handleToggle = () => {
-    setIsToggled(prev => !prev);
-  };
 
   const toggleDarkMode = () => {
     setDarkMode(prev => !prev);
