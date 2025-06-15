@@ -60,7 +60,7 @@ export const data = [
       option1: "Pune",
       option2: "Mumbai",
       option3: "Delhi",
-      option4: "Lucknow",
+      option4: "Hyderabad",
       ans: 2,
     },
     {
