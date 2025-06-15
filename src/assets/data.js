@@ -51,8 +51,8 @@ export const data = [
       question: "What is the capital of India?",
       option1: "Pune",
       option2: "Mumbai",
-      option3: "Delhi",
-      option4: "Lucknow",
+      option3: "New Delhi",
+      option4: "Banglore",
       ans: 3,
     },
     {
