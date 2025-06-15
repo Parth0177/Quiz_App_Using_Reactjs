@@ -67,8 +67,8 @@ export const data = [
       question: "how many states are there in India?",
       option1: "28",
       option2: "29",
-      option3: "30",
-      option4: "31",
+      option3: "31",
+      option4: "32",
       ans: 2,
     },
     {
