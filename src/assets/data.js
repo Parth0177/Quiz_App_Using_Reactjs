@@ -36,7 +36,7 @@ export const data = [
       option1: "Index Page",
       option2: "Homepage",
       option3: "Sitemap",
-      option4: "Pen Drive",
+      option4: "Front Page",
       ans: 2,
     },
     {
