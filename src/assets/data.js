@@ -83,7 +83,7 @@ export const data = [
       question: "Who is Parth's Bestfriend:??",
       option1: "Aryan/Shivansh",
       option2: "Tinku",
-      option3: "JavaScript",
+      option3: "Sargam",
       option4: "All of the above",
       ans: 4,
     },
