@@ -28,7 +28,7 @@ export const data = [
       option1: "Application Software",
       option2: "Internet",
       option3: "Operating System",
-      option4: "Mouse",
+      option4: "Power Supply",
       ans: 3,
     },
     {
