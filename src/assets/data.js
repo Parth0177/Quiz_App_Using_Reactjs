@@ -79,4 +79,13 @@ export const data = [
       option4: "All of the above",
       ans: 4,
     },
+    {
+      question: "Who is Parth's Bestfriend:??",
+      option1: "HTML",
+      option2: "CSS",
+      option3: "JavaScript",
+      option4: "All of the above",
+      ans: 4,
+    },
+
   ];
